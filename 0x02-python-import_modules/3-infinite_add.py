@@ -7,4 +7,4 @@ if __name__ == '__main__':
     while cnt < len(argv):
         res += int(argv[cnt])
         cnt += 1
-        print(res)
+    print(res)
